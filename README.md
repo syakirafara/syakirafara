@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Syakira Fara Salsabila — Web Developer" />
+  <img src="assets/header.svg" width="100%" alt="Syakira Fara Salsabila — Website Developer" />
 </p>
 
 <p align="center">
@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  Hi, I'm <b>Syakira</b>, a web developer who enjoys building clean, useful,<br />
-  and thoughtfully designed applications.
+  Hi, I'm <b>Syakira</b>, a website developer who enjoys building<br />
+  clean, useful, and thoughtfully designed websites.
 </p>
 
 <p align="center">
-  I mostly work with <b>Laravel &amp; PHP</b>, and I'm currently exploring <b>TypeScript</b><br />
-  and <b>data science with Python</b>. Always learning, one commit at a time.
+  I love learning new things and turning ideas into something real.<br />
+  Always learning, one commit at a time.
 </p>
 
 <br />
@@ -23,20 +23,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-F8D7E3?style=flat-square&logo=php&logoColor=A8325F" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-F8D7E3?style=flat-square&logo=laravel&logoColor=A8325F" alt="Laravel" />
-  <img src="https://img.shields.io/badge/JavaScript-F8D7E3?style=flat-square&logo=javascript&logoColor=A8325F" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-F8D7E3?style=flat-square&logo=typescript&logoColor=A8325F" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-F8D7E3?style=flat-square&logo=python&logoColor=A8325F" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-F8D7E3?style=flat-square&logo=html5&logoColor=A8325F" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-F8D7E3?style=flat-square&logo=css&logoColor=A8325F" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML5-D65F8E?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-D65F8E?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-D65F8E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-D65F8E?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <br />
-  <img src="https://img.shields.io/badge/Bootstrap-F8D7E3?style=flat-square&logo=bootstrap&logoColor=A8325F" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-F8D7E3?style=flat-square&logo=tailwindcss&logoColor=A8325F" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Streamlit-F8D7E3?style=flat-square&logo=streamlit&logoColor=A8325F" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/MySQL-F8D7E3?style=flat-square&logo=mysql&logoColor=A8325F" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F8D7E3?style=flat-square&logo=git&logoColor=A8325F" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F8D7E3?style=flat-square&logo=figma&logoColor=A8325F" alt="Figma" />
+  <img src="https://img.shields.io/badge/Laravel-D65F8E?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-D65F8E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-D65F8E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-D65F8E?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 <br />
@@ -50,6 +45,14 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syakirafara&layout=compact&langs_count=6&hide_border=true&hide_title=true&bg_color=00000000&text_color=7D8590" alt="Top languages" />
 </p>
 
+<!-- Ular pink ini dibuat otomatis oleh .github/workflows/pink-snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syakirafara/syakirafara/output/pink-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/syakirafara/syakirafara/output/pink-snake.svg" alt="pink contribution snake" />
+  </picture>
+</p>
+
 <br />
 
 <p align="center">
@@ -57,9 +60,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/syakirafara"><img src="https://img.shields.io/badge/GitHub-F8D7E3?style=flat-square&logo=github&logoColor=A8325F" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/syakira-fara-salsabila-61a5a8268/"><img src="https://img.shields.io/badge/LinkedIn-F8D7E3?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0E4MzI1RiIgZD0iTTQuOTggMy41YTIuNSAyLjUgMCAxIDEgMCA1IDIuNSAyLjUgMCAwIDEgMC01ek0zIDloNHYxMkgzek05IDloMy44djEuN2guMDVjLjUzLTEgMS44My0yLjA1IDMuNzctMi4wNUMyMC42IDguNjUgMjEgMTEuMiAyMSAxNC41VjIxaC00di01LjhjMC0xLjQtLjAzLTMuMi0xLjk1LTMuMi0xLjk1IDAtMi4yNSAxLjUtMi4yNSAzLjFWMjFIOXoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/syakirafaraa/"><img src="https://img.shields.io/badge/Instagram-F8D7E3?style=flat-square&logo=instagram&logoColor=A8325F" alt="Instagram" /></a>
+  <a href="https://github.com/syakirafara"><img src="https://img.shields.io/badge/GitHub-D65F8E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/syakira-fara-salsabila-61a5a8268/"><img src="https://img.shields.io/badge/LinkedIn-D65F8E?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5aDR2MTJIM3pNOSA5aDMuOHYxLjdoLjA1Yy41My0xIDEuODMtMi4wNSAzLjc3LTIuMDVDMjAuNiA4LjY1IDIxIDExLjIgMjEgMTQuNVYyMWgtNHYtNS44YzAtMS40LS4wMy0zLjItMS45NS0zLjItMS45NSAwLTIuMjUgMS41LTIuMjUgMy4xVjIxSDl6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/syakirafaraa/"><img src="https://img.shields.io/badge/Instagram-D65F8E?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <br />

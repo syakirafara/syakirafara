@@ -23,15 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-D65F8E?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-D65F8E?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-D65F8E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-D65F8E?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <br />
-  <img src="https://img.shields.io/badge/Laravel-D65F8E?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-D65F8E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-D65F8E?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-D65F8E?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="assets/tech-stack.svg" width="100%" alt="HTML, CSS, JavaScript, TypeScript, PHP, Laravel, Python, Bootstrap, Tailwind, MySQL, Git, GitHub, VS Code, Figma, Postman" />
 </p>
 
 <br />
